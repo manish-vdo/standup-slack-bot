@@ -1,5 +1,7 @@
 # PulseBot - Slack Standup Bot
 
+### Feature requests are welcome. If you've one, raise an issue.
+
 PulseBot is a Slack bot that automates daily standups for your team. It collects responses from team members, stores them, and provides a configurable control panel for admins to manage standup settings.
 
 ## Features
